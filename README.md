@@ -67,7 +67,6 @@ Run gulp with your own prefix parameter ```-p``` to have all classes and JavaScr
 gulp -p myprefix
 ```
 
-
 ## Contributing
 
 UIkit follows the [GitFlow branching model](http://nvie.com/posts/a-successful-git-branching-model). The ```master``` branch always reflects a production-ready state while the latest development is taking place in the ```develop``` branch.
